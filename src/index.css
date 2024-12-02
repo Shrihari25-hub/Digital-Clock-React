@@ -1,0 +1,13 @@
+body{
+  background-image: url(assets/Pune.png);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.clock{
+  color: white;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 6rem;
+  text-align: center;
+}
